@@ -1,4 +1,4 @@
-from codeConcepts import this_function
+from day2_codeConcepts import this_function
 
 x = this_function(1,2)
 print(x)
